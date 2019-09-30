@@ -17,7 +17,10 @@ class Scraper
     end
   end
   
-  def 
+   
+  def get_page
+      
+  end
   
 end
 
